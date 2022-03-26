@@ -14,7 +14,7 @@ fun employeeAvgNo(){
     println(average)
 }
 fun builtIn(){
-    var names = "banana"
+    var names = "mangos"
     println("name"+" "+names[0].toString())
 
 }
